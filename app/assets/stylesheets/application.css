@@ -20,3 +20,6 @@
  	font-size: 30px;
  	color: white;
  }
+ #error_explanation {
+ 	color: red;
+ }
